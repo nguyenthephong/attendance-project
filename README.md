@@ -1,1 +1,1 @@
-# attendance-project
+# CS544
